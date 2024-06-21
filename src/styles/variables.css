@@ -1,0 +1,13 @@
+:root {
+  --primary-color: #ffce22;
+  --primary-hover-color: #ffd84d;
+  --main-section-color: #e7e7e7;
+  --text-color: ##1f2128;
+  --checkbox-unchecked-color: #fff;
+  --checkbox-border-color: #BDBDBD;
+  --checkbox-hover-color: #ccc;
+  --checkbox-checked-color: #2469f6;
+  --checkbox-checked-border-color: #2469f6;
+  --checkbox-hover-checked-color: #5087f8;
+  --divider-border-color: #cdcdcd;
+}

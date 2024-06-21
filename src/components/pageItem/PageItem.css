@@ -1,0 +1,13 @@
+.page-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  /* padding: 8px 0; */
+  color: var(--text-color);
+  height: 42px;
+}
+
+.page-item span {
+  font-size: 14px;
+}
